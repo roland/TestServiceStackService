@@ -1,0 +1,5 @@
+C:\roland\Personal\TestServiceStackService\TestServiceDTOs\bin\Debug\TestServiceDTOs.dll
+C:\roland\Personal\TestServiceStackService\TestServiceDTOs\bin\Debug\TestServiceDTOs.pdb
+C:\roland\Personal\TestServiceStackService\TestServiceDTOs\obj\Debug\TestServiceDTOs.csprojResolveAssemblyReference.cache
+C:\roland\Personal\TestServiceStackService\TestServiceDTOs\obj\Debug\TestServiceDTOs.dll
+C:\roland\Personal\TestServiceStackService\TestServiceDTOs\obj\Debug\TestServiceDTOs.pdb

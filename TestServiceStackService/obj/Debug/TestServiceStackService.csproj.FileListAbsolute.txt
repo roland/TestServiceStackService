@@ -1,0 +1,9 @@
+C:\roland\Personal\TestServiceStackService\TestServiceStackService\bin\TestServiceStackService.dll
+C:\roland\Personal\TestServiceStackService\TestServiceStackService\bin\TestServiceStackService.pdb
+C:\roland\Personal\TestServiceStackService\TestServiceStackService\bin\TestServiceDAL.dll
+C:\roland\Personal\TestServiceStackService\TestServiceStackService\bin\TestServiceDTOs.dll
+C:\roland\Personal\TestServiceStackService\TestServiceStackService\bin\TestServiceDAL.pdb
+C:\roland\Personal\TestServiceStackService\TestServiceStackService\bin\TestServiceDTOs.pdb
+C:\roland\Personal\TestServiceStackService\TestServiceStackService\obj\Debug\TestServiceStackService.csprojResolveAssemblyReference.cache
+C:\roland\Personal\TestServiceStackService\TestServiceStackService\obj\Debug\TestServiceStackService.dll
+C:\roland\Personal\TestServiceStackService\TestServiceStackService\obj\Debug\TestServiceStackService.pdb
