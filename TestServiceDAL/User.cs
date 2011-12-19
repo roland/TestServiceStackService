@@ -37,12 +37,24 @@ namespace TestServiceDAL
                         LastName = "Last Name"
                     };
                 case "user3":
-                default:
                     return new User()
                     {
                         Username = username,
                         FirstName = "First Name",
                         Address = new Address() { City = "New York" }
+                    };
+                default:
+                    return new User()
+                    {
+                        Username = username,
+                        FirstName = "First Name",
+                        LastName = "Last Name",
+                        Address = new Address() { 
+                            City = "New York",
+                            State = "NY",
+                            Street = "123 Main St",
+                            Zip = "00001"
+                        }
                     };
             }
         }
