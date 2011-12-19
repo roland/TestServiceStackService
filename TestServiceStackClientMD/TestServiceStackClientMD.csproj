@@ -35,13 +35,13 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Web.Services" />
     <Reference Include="ServiceStack.Common">
-      <HintPath>bin\ServiceStack.Common.dll</HintPath>
+      <HintPath>bin\MonoTouch\ServiceStack.Common.dll</HintPath>
     </Reference>
     <Reference Include="ServiceStack.Interfaces">
-      <HintPath>bin\ServiceStack.Interfaces.dll</HintPath>
+      <HintPath>bin\MonoTouch\ServiceStack.Interfaces.dll</HintPath>
     </Reference>
     <Reference Include="ServiceStack.Text">
-      <HintPath>bin\ServiceStack.Text.dll</HintPath>
+      <HintPath>bin\MonoTouch\ServiceStack.Text.dll</HintPath>
     </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

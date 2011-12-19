@@ -10,11 +10,11 @@
 using System;
 using System.Web;
 using System.Web.UI;
-using ServiceStack.ServiceClient.Web;
 using TestServiceDTOs.Responses;
 using TestServiceDTOs.Requests;
 using TestServiceDTOs;
 using System.Web.UI.WebControls;
+using ServiceStack.ServiceClient.Web;
 
 namespace TestServiceStackClientMD
 {
@@ -36,6 +36,11 @@ namespace TestServiceStackClientMD
 				new AuthenticateRequest()
                 {
                     Username = "user3",
+                    Password = "password"
+                },
+				new AuthenticateRequest()
+                {
+                    Username = "user4",
                     Password = "password"
                 }
 			};
